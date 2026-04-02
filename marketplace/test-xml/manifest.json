@@ -1,0 +1,19 @@
+{
+  "id": "test-xml",
+  "name": "Test XML",
+  "description": "This is a test XML file",
+  "author": "CapnSammeh",
+  "category": "Integrations",
+  "tags": [],
+  "createdAt": "2026-04-02T00:16:25.312Z",
+  "latestVersion": "1.0.0",
+  "issueNumber": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "path": "v1.0.0/changeset.xml",
+      "notes": "Initial release",
+      "createdAt": "2026-04-02T00:16:25.312Z"
+    }
+  ]
+}
