@@ -14,6 +14,13 @@
       "path": "v1.0.0/changeset.xml",
       "notes": "Initial release",
       "createdAt": "2026-04-02T00:16:25.312Z"
+    },
+    {
+      "version": "1.01",
+      "path": "v1.01/changeset.xml",
+      "notes": "",
+      "createdAt": "2026-04-02T00:23:59.560Z",
+      "status": "pending"
     }
   ]
 }
